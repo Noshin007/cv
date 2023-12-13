@@ -1,7 +1,8 @@
 body{
   background-color:blue;
+  opacity: 0.3;
 }
 #image{
-  border-radius:"1px";
+  border-style:dotted;
 }
 
